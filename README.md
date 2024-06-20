@@ -1,3 +1,5 @@
-# Línguas Indígenas Brasileiras
+# A tipografia das línguas indígenas brasileiras
+Este repositório contém fontes e teclados customizados para as línguas indígenas brasileiras, desenvolvidos no contexto da pesquisa para a tese de doutorado “A tipografia das línguas indígenas brasileiras”, no Programa de Pós-graduação em Comunicação da Universidade de Brasília. O repositório agrupa ainda informações acerca da catalogação ortográfica das línguas indígenas brasileiras, reunindo, ao todo, 239 tabelas com informações sobre a ortografia 111 línguas.
 
-Este repositório contém fontes e teclados customizados para as línguas indígenas brasileiras, desenvolvidos no contexto da pesquisa para a tese de doutorado “A tipografia das línguas indígenas brasileiras”, no Programa de Pós-graduação em Comunicação da Universidade de Brasília.
+# The typography of Brazilian indigenous languages
+This repository contains  fonts and keyboards customized for Brazilian indigenous languages. This assets were developed in the context of research for the doctoral thesis “The typography of Brazilian indigenous languages”, in the Postgraduate Program in Communication at the University of Brasília. The repository also groups information about the orthographic cataloging of Brazilian indigenous languages, bringing together, in total, 239 tables with information about the orthography of 111 languages.
